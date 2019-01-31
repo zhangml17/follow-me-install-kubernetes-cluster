@@ -1,3 +1,6 @@
+# kubernetes handbook 在线阅读
+https://jimmysong.io/kubernetes-handbook/cloud-native/play-with-kubernetes.html
+
 # 和我一步步部署 kubernetes 集群
 
 ![dashboard-home](./images/dashboard-home.png)
